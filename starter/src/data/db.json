@@ -1,0 +1,40 @@
+{
+  "places": [
+    {
+      "id": 0,
+      "place": "Zanzibar",
+      "description": "Things to do on Zanzibar Island",
+      "image": "https://picsum.photos/id/1011/500/500"
+    },
+    {
+      "id": 1,
+      "place": "Mexico",
+      "description": "14 Reasons why you should visit Mexico now",
+      "image": "https://picsum.photos/id/1019/500/500"
+    },
+    {
+      "id": 2,
+      "place": "Namibia",
+      "description": "Namibia Desert through our lens",
+      "image": "https://picsum.photos/id/1015/500/500"
+    },
+    {
+      "id": 3,
+      "place": "Argentina",
+      "description": "Rock climbing in Mendoza",
+      "image": "https://picsum.photos/id/1038/500/500"
+    },
+    {
+      "id": 4,
+      "place": "Vietnam",
+      "description": "Our adventures on Phu Quoc Island",
+      "image": "https://picsum.photos/id/1036/500/500"
+    },
+    {
+      "id": 5,
+      "place": "New Zealand",
+      "description": "South Island: Two week road trip",
+      "image": "https://picsum.photos/id/1041/500/500"
+    }
+  ]
+}
